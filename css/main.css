@@ -1,0 +1,139 @@
+.full-screen {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.carousel-inner .item {
+    transition-property: opacity;
+}
+
+.carousel-inner .item, .active.left, .active.right {
+    opacity: 0.5;
+}
+
+.carousel-inner .active, .next.left, .prev.right {
+    opacity: 1;
+}
+
+.carousel-inner .next, .prev, .active.left, .active.right {
+    left: 0;
+    transform: translate3d(0, 0, 0);
+}
+
+.main-text {
+    position: absolute;
+    top: 50px;
+    width: 96.66666666666666%;
+    color: #FFF;
+    /*font-family: 'Wendy One', sans-serif;*/
+}
+
+.link-bar{
+    position: absolute;
+    top: 200px;
+    width: 100%;
+    /*font-family: 'Wendy One', sans-serif;*/
+}
+
+.sitio-construccion {
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    color: #FFF;
+}
+
+.sitio-construccion span {
+    font-size: 18px;
+}
+
+.navigation-bar {
+    position: fixed;
+    bottom: 60px;
+    width: 100%;
+    color: #FFF;
+    z-index: 2;
+}
+.navigation-bar a{
+    color: #fff;
+    font-size: 18px;
+}
+
+.social-bar {
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    color: #FFF;
+    z-index: 2;
+}
+.social-list{
+    color: #ffffff;
+}
+.social-list .fa{
+    color: #ffffff !important;
+    font-size: 23px !important;
+}
+.social-list a{
+    padding: 6px !important;
+}
+.social-list img{
+    width: 32px;
+    height: 32px;
+}
+
+.main-logo {
+    width: 220px !important;
+    height: 220px !important;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1 !important;
+}
+
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url(../img/loader2.gif) center no-repeat #fff;
+}
+
+@media screen and (max-height: 350px) {
+    .main-logo {
+        width: 180px !important;
+        height: 180px !important;
+    }
+
+}
+
+@media screen and (max-height: 270px) {
+    .main-logo {
+        width: 140px !important;
+        height: 140px !important;
+    }
+
+}
+
+@media screen and (max-width: 490px) {
+    .social-bar{
+        bottom: 30px;	
+    }
+    .sitio-construccion {
+        text-align: center;
+    }
+}
+
+.form-group span {
+    color: red;
+    display: none;
+}
+
+.form-group span.has-error {
+    color: red;
+    display: block;
+}
