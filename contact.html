@@ -24,7 +24,7 @@
                     <span class="close-menu icon-cross2 right-boxed"></span>
                     <ul class="menu-list right-boxed">
                         <li>
-                            <a  href="/">Home</a>
+                            <a  href="/">Inicio</a>
                         </li>
                     </ul>
                 </div>
@@ -37,19 +37,16 @@
                     </button>
                     <a class="brand" href="#">
                         <img alt="Gen 62" src="img/favicon.png">
-                        <div class="brand-info">
+                       <!-- <div class="brand-info">
                             <div class="brand-name">Gen<span style="color: red;">62</span></div>
-                        </div>
+                        </div>-->   
                     </a>
                     <div class="social-list hidden-xs">
-                        <a href="" class="icon ion-social-twitter"></a>
+                        <a href="" class="icon ion-social-instagram"></a>
                         <a href="" class="icon ion-social-facebook"></a>
-                        <a href="" class="icon ion-social-googleplus"></a>
-                        <a href="" class="icon ion-social-linkedin"></a>
-                        <a href="" class="icon ion-social-dribbble-outline"></a>
                     </div>
                     <div class="navbar-spacer hidden-sm hidden-xs"></div>
-                    <address class="navbar-address hidden-sm hidden-xs">call us: <span class="text-dark">(+080) 9684 32 45 789</span></address>
+                    <address class="navbar-address hidden-sm hidden-xs">Llamanos: <span class="text-dark">4711532</span></address>
                 </header>
                 <div class="content">
                     <div id="map" class="map"></div>
@@ -174,5 +171,8 @@
         <!-- Scripts -->
         <script src="js/scripts.js"></script> 
         <script src="js/rev-slider-init.js"></script>
+        <script>
+            $("a.brand").click(function(e){e.preventDefault(); return false;});
+        </script>
     </body>
 </html>

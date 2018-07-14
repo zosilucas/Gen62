@@ -682,7 +682,7 @@ label.error{
 
 .navbar .brand{
     float: left;
-    margin-top: -0.5rem;
+    margin-top: -1.5rem;
     -webkit-transition: none;
     -o-transition: none;
     transition: none;
@@ -710,7 +710,7 @@ a.brand:focus{
     display: inline-block;
     vertical-align: top;
     margin-right: 0.65rem;
-    height: 2.356rem;
+    height: 4.356rem;
 }
 
 .brand-info{
