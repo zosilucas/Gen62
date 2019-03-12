@@ -14,7 +14,7 @@ function initialize() {
     var contentString = 
       '<div class="map-info">' 
     + '<div class="map-title">' 
-    + '<div class="brand" href="#"><img alt="" src="img/favicon.png"><div class="brand-info"><div class="brand-name">Gen 62</div></div></div></div>' 
+    + '<div class="brand" href="#"><img alt="" src="img/favicon.png"><div class="brand-info"><div class="brand-name">GEN62</div></div></div></div>' 
     + '<p class="map-address">'
     + '<div class="map-address-row">'
     + '  <i class="fa fa-map-marker"></i>'

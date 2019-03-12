@@ -1,14 +1,14 @@
 $(document).ready(function () {
     setTimeout(function () {
-        $(".se-pre-con").fadeOut("slow")
+        $(".se-pre-con").fadeOut("slow");
     }, 3500);
     function setUpCarousel() {
         if ($(window).width() >= 800) {
-            $(".carousel-inner .hide-md").removeClass("item");//.hide();
-            $(".carousel-inner .hide-md").removeClass("item");//.hide();
+            $(".carousel-inner .hide-md").removeClass("item");
+            $(".carousel-inner .hide-md").removeClass("item");
         } else if ($(window).width() < 800 && $(window).height() > 350) {
-            $(".carousel-inner .hide-md").addClass("item");//.show();
-            $(".carousel-inner .hide-md").addClass("item");//.show();
+            $(".carousel-inner .hide-md").addClass("item");
+            $(".carousel-inner .hide-md").addClass("item");
         }
         var $item = $('.carousel .item');
         var $wHeight = $(window).height();
