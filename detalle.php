@@ -92,7 +92,7 @@ function view_proyect($proyect) {
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="brand" href="/">
+                        <a class="brand" href="/proyectos.html">
                             <img alt="" src="img/favicon.png">
                         </a>
                         <div class="social-list hidden-xs">
