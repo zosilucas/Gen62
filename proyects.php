@@ -172,6 +172,13 @@ $proyects['estudio']['img'][] = array('src' => '/img/estudio/12.jpg', 'src-small
 $proyects['estudio']['img'][] = array('src' => '/img/estudio/13.jpg', 'src-small' => '/img/estudio/13s.jpg', 'title' => 'Título');
 $proyects['estudio']['img'][] = array('src' => '/img/estudio/14.jpg', 'src-small' => '/img/estudio/14s.jpg', 'title' => 'Título');
 $proyects['estudio']['img'][] = array('src' => '/img/estudio/15.jpg', 'src-small' => '/img/estudio/15s.jpg', 'title' => 'Título');
+$proyects['estudio']['img'][] = array('src' => '/img/estudio/16.jpg', 'title' => 'Título');
+$proyects['estudio']['img'][] = array('src' => '/img/estudio/17.jpg', 'title' => 'Título');
+$proyects['estudio']['img'][] = array('src' => '/img/estudio/18.jpg', 'title' => 'Título');
+$proyects['estudio']['img'][] = array('src' => '/img/estudio/19.jpg', 'title' => 'Título');
+$proyects['estudio']['img'][] = array('src' => '/img/estudio/20.jpg', 'title' => 'Título');
+$proyects['estudio']['img'][] = array('src' => '/img/estudio/21.jpg', 'title' => 'Título');
+$proyects['estudio']['img'][] = array('src' => '/img/estudio/22.jpg', 'title' => 'Título');
 $proyects['estudio']['title'] = 'Estudio';
 //</editor-fold>
 // <editor-fold defaultstate="collapsed" desc="garage mingo">
