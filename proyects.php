@@ -66,8 +66,33 @@ $proyects['27 y 71']['img'][] = array('src' => '/img/27 y 71/21.jpg', 'src-small
 $proyects['27 y 71']['title'] = '27 y 71';
 //</editor-fold>
 // <editor-fold defaultstate="collapsed" desc="Bogo">
-$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/1.jpg', 'src-small' => '/img/Bogo/1s.jpg', 'title' => 'Título');
-$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/2.jpg', 'src-small' => '/img/Bogo/2s.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/1.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/2.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/3.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/4.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/5.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/6.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/7.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/8.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/9.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/10.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/11.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/12.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/13.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/14.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/15.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/16.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/17.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/18.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/19.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/20.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/21.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/22.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/23.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/24.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/25.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/26.jpg', 'title' => 'Título');
+$proyects['Bogo']['img'][] = array('src' => '/img/Bogo/27.jpg', 'title' => 'Título');
 $proyects['Bogo']['title'] = 'Bogo';
 //</editor-fold>
 // <editor-fold defaultstate="collapsed" desc="Casa Ale-Ale">
