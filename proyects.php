@@ -705,3 +705,44 @@ $proyects['Hidromasash']['img'][] = array('src' => '/img/Hidromasash/15.jpg', 't
 $proyects['Hidromasash']['img'][] = array('src' => '/img/Hidromasash/16.jpg', 'title' => 'Título');
 $proyects['HotelParkExterior']['Title'] = 'Hidromasash';
 //</editor-fold>
+//Barra Z
+$proyects['Barra Z']['img'][] = array('src' => '/img/Barra Z/1.jpg', 'title' => 'Título');
+$proyects['Barra Z']['img'][] = array('src' => '/img/Barra Z/2.jpg', 'title' => 'Título');
+$proyects['Barra Z']['img'][] = array('src' => '/img/Barra Z/3.jpg', 'title' => 'Título');
+$proyects['Barra Z']['img'][] = array('src' => '/img/Barra Z/4.jpg', 'title' => 'Título');
+$proyects['Barra Z']['img'][] = array('src' => '/img/Barra Z/5.jpg', 'title' => 'Título');
+$proyects['Barra Z']['img'][] = array('src' => '/img/Barra Z/6.jpg', 'title' => 'Título');
+$proyects['Barra Z']['img'][] = array('src' => '/img/Barra Z/7.jpg', 'title' => 'Título');
+$proyects['Barra Z']['img'][] = array('src' => '/img/Barra Z/8.jpg', 'title' => 'Título');
+$proyects['Barra Z']['img'][] = array('src' => '/img/Barra Z/9.jpg', 'title' => 'Título');
+
+//Reforma Carowilly
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/1.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/2.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/3.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/5.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/6.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/8.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/10.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/11.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/12.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/13.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/14.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/16.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/17.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/19.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/20.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/22.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/23.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/24.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/25.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/26.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/27.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/30.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/32.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/33.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/34.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/35.jpg', 'title' => 'Título');
+$proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/36.jpg', 'title' => 'Título');
+
+
