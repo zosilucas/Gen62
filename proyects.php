@@ -798,3 +798,45 @@ $proyects['Gal-Pon']['img'][] = array('src' => '/img/Gal-pon/1.jpg', 'title' => 
 $proyects['Gal-Pon']['img'][] = array('src' => '/img/Gal-pon/2.jpg', 'title' => 'Título');
 $proyects['Gal-Pon']['img'][] = array('src' => '/img/Gal-pon/3.jpg', 'title' => 'Título');
 $proyects['Gal-Pon']['img'][] = array('src' => '/img/Gal-pon/4.jpg', 'title' => 'Título');
+
+$proyects['Proyecto C']['img'][] = array('src' => '/img/Proyecto C/1.jpg', 'title' => 'Título');
+$proyects['Proyecto C']['img'][] = array('src' => '/img/Proyecto C/2.jpg', 'title' => 'Título');
+$proyects['Proyecto C']['img'][] = array('src' => '/img/Proyecto C/3.jpg', 'title' => 'Título');
+$proyects['Proyecto C']['img'][] = array('src' => '/img/Proyecto C/4.jpg', 'title' => 'Título');
+$proyects['Proyecto C']['img'][] = array('src' => '/img/Proyecto C/5.jpg', 'title' => 'Título');
+
+$proyects['Proyecto LM']['img'][] = array('src' => '/img/Proyecto LM/1.jpg', 'title' => 'Título');
+$proyects['Proyecto LM']['img'][] = array('src' => '/img/Proyecto LM/2.jpg', 'title' => 'Título');
+
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/1.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/1.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/2.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/3.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/4.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/5.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/6.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/7.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/8.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/9.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/10.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/11.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/12.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/13.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/14.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/15.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/16.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/17.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/18.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/19.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/20.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/21.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/22.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/23.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/24.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/25.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/26.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/27.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/28.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/29.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/30.jpg', 'title' => 'Título');
+$proyects['Pancho']['img'][] = array('src' => '/img/Reforma - Lo De Pancho/31.jpg', 'title' => 'Título');
