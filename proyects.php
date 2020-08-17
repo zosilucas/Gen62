@@ -793,4 +793,8 @@ $proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly
 $proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/35.jpg', 'title' => 'Título');
 $proyects['Reforma Carowilly']['img'][] = array('src' => '/img/Reforma carowilly/36.jpg', 'title' => 'Título');
 
-
+//Galpon
+$proyects['Gal-Pon']['img'][] = array('src' => '/img/Gal-pon/1.jpg', 'title' => 'Título');
+$proyects['Gal-Pon']['img'][] = array('src' => '/img/Gal-pon/2.jpg', 'title' => 'Título');
+$proyects['Gal-Pon']['img'][] = array('src' => '/img/Gal-pon/3.jpg', 'title' => 'Título');
+$proyects['Gal-Pon']['img'][] = array('src' => '/img/Gal-pon/4.jpg', 'title' => 'Título');
