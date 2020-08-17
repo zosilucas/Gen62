@@ -349,14 +349,30 @@ $proyects['hotel gato negro rosario']['img'][] = array('src' => '/img/hotel gato
 $proyects['hotel gato negro rosario']['title'] = 'Hotel Gato Negro - Rosario';
 //</editor-fold>
 // <editor-fold defaultstate="collapsed" desc="Los Fresnos">
-$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/1.jpg', 'src-small' => '/img/Los Fresnos/1s.jpg', 'title' => 'Título');
-$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/2.jpg', 'src-small' => '/img/Los Fresnos/2s.jpg', 'title' => 'Título');
-$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/3.jpg', 'src-small' => '/img/Los Fresnos/3s.jpg', 'title' => 'Título');
-$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/4.jpg', 'src-small' => '/img/Los Fresnos/4s.jpg', 'title' => 'Título');
-$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/5.jpg', 'src-small' => '/img/Los Fresnos/5s.jpg', 'title' => 'Título');
-$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/6.jpg', 'src-small' => '/img/Los Fresnos/6s.jpg', 'title' => 'Título');
-$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/7.jpg', 'src-small' => '/img/Los Fresnos/7s.jpg', 'title' => 'Título');
-$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/8.jpg', 'src-small' => '/img/Los Fresnos/8s.jpg', 'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/1.jpg', 'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/2.jpg', 'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/3.jpg', 'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/4.jpg', 'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/5.jpg', 'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/6.jpg', 'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/7.jpg', 'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/8.jpg', 'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/1.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/2.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/3.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/4.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/5.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/6.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/7.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/8.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/9.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/10.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/11.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/12.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/13.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/14.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/15.jpg',  'title' => 'Título');
+$proyects['Los Fresnos']['img'][] = array('src' => '/img/Los Fresnos/Proceso/16.jpg',  'title' => 'Título');
 $proyects['Los Fresnos']['title'] = 'Los Fresnos';
 //</editor-fold>
 // <editor-fold defaultstate="collapsed" desc="Marisa y Donato">
